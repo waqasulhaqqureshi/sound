@@ -1,0 +1,6 @@
+# Heavy intermediates (regenerable via work/render.py)
+work/segments/
+work/audio48/
+work/narration*.wav
+work/final_*.txt
+__pycache__/
